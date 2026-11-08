@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://havenova-x.github.io/spendaware/sitemap.xml
