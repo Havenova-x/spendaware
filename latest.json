@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
-  "sha256": "7051b1af442762455683babc46f5b0a45601866cd6d873296e1574755a19e27d",
-  "size": 49495882,
-  "date": "2026-11-08",
-  "url": "https://github.com/Havenova-x/spendaware/releases/download/v2.0.1/SpendAware-Setup.exe",
+  "version": "2.2.0",
+  "sha256": "f6d7b0a57d50577a285c011631aba91e6944904ee58c4a2a188920eb71844439",
+  "size": 55043823,
+  "date": "2026-11-10",
+  "url": "https://github.com/Havenova-x/spendaware/releases/download/v2.2.0/SpendAware-Setup.exe",
   "android": ""
 }
